@@ -1,0 +1,21 @@
+{
+  "name": "老公不在家",
+  "short_name": "爱",
+  "description": "一个简易的记账本应用，可以记录收支并查看统计。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#f8f9fa",
+  "icons": [
+    {
+      "src": "./images/111.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./images/222.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
